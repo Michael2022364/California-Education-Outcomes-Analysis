@@ -29,6 +29,6 @@ This project analyzes California public education data to examine relationships 
 - RStudio
 
 ## Repository Contents
-- `Final Writeup.pdf` – Final project report detailing methodology, analysis, visualizations, and findings.
+- `California_Education_Outcomes_Analysis.pdf` – Final project report detailing methodology, analysis, visualizations, and findings.
 
 > **Note:** This repository contains the final report only. The original source code and datasets used for the analysis are no longer available.
